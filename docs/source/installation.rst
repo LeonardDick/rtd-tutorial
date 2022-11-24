@@ -1,4 +1,3 @@
-
 Installation
 ------------
 
@@ -18,3 +17,5 @@ Now the code is ready to run. To run the code, simply run the following command:
 
     $ python3 CONAn.py
     
+
+The code will then run and output the results to the terminal. An output.log file will be written. This file contains the same information as the terminal output, but is formatted in a way that is easier to read. The output.log file is also used to store the results of the code when running multiple simulations.
