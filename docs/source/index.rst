@@ -15,7 +15,7 @@ The program is able to do the following:
 * Calculate the radial density inside the CNT.
 * Calculate the axial density along the CNT and bulk.
 
-Additionally the program has a molecule identifier, ehich makes it possible to perform all analysis for the individual kind of molecules present in the system.
+Additionally the program has a molecule identifier, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
 
 
 
