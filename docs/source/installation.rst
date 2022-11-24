@@ -14,4 +14,7 @@ You can also manually install all packages with the following command::
 
     $ pip install argparse gettext os xml.dom pandas numpy math time scipy gc matplotlib.pyplot prettytable cdist
 
+Now the code is ready to run. To run the code, simply run the following command::
+
+    $ python3 CONAn.py
     

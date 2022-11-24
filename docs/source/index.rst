@@ -19,15 +19,14 @@ Additionally the program has a molecule identifier, which makes it possible to p
 
 
 Check out the :doc:`installation` for more information on how to install CONAn.
-Check out the :doc:`usage` section for further information on the analysis
+Check out the :doc:`usage` section for further information on the analysis.
 
 
 
 Contents
 --------
-
+TABLE OF CONTENTS
 .. toctree::
 
    installation
    usage
-   api
