@@ -4,7 +4,7 @@
 
 project = 'CONAn'
 copyright = '2022, Leonard Dick'
-author = 'Graziella'
+author = 'Leonard Dick'
 
 release = '0.1'
 version = '0.1.0'
