@@ -25,7 +25,8 @@ Check out the :doc:`usage` section for further information on the analysis.
 
 Contents
 --------
-TABLE OF CONTENTS
+TABLE OF Contents
+=================
 .. toctree::
 
    installation
