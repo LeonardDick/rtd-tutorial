@@ -27,6 +27,6 @@ Contents
 --------
 
 .. toctree::
-   :caption: Contents
+   :caption: Conte
    installation
    analysis
