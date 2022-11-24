@@ -27,7 +27,6 @@ Contents
 --------
 TABLE OF Contents
 =================
-
 .. toctree::
 
    installation
