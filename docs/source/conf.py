@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'CONAn'
+copyright = '2022, Leonard Dick'
 author = 'Graziella'
 
 release = '0.1'
