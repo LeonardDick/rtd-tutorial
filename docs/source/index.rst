@@ -22,12 +22,8 @@ Check out the :doc:`installation` for more information on how to install CONAn.
 Check out the :doc:`analysis` section for further information on the analysis.
 
 
-
-Contents
---------
-
 .. toctree::
-   :caption: Conte
-   
+   :caption: Content
+
    installation
    analysis
