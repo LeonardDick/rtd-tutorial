@@ -6,7 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use CONAn first install it using GitHub::
+
+    $ pip install git+
+
+pip:
 
 .. code-block:: console
 
