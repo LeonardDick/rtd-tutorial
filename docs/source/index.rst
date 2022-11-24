@@ -25,7 +25,6 @@ Check out the :doc:`analysis` section for further information on the analysis.
 
 Contents
 --------
-
 .. toctree::
 
    installation
