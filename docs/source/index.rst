@@ -1,6 +1,9 @@
 CONAn - User Guide
 ===================================
+.. note::
 
+   This project is under active development.
+   
 **CONAn** is a Python program to analyze MD trajectories composed of a liquid and carbon structures.
 It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de/).
 The program is able to do the following:
@@ -18,9 +21,7 @@ Additionally the program has a molecule identifier, ehich makes it possible to p
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
 
-   This project is under active development.
 
 Contents
 --------
