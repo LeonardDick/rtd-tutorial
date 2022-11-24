@@ -1,8 +1,8 @@
-Welcome to Lumache's documentation!
+CONAn - User Guide
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**CONAn** is a Python program to analyze MD trajectories composed of a liquid and carbon structures.
+It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de/)
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
