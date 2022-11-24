@@ -2,9 +2,18 @@ CONAn - User Guide
 ===================================
 
 **CONAn** is a Python program to analyze MD trajectories composed of a liquid and carbon structures.
-It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de/)
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de/).
+The program is able to do the following:
+* Generate carbon structures like graphene walls or carbon nanotubes (CNT).
+* Set up a system from a bulk liquid and a carbon structure.
+* Identify and characterize carbon structures found in the system.
+* Calculate the coordination number of the liquid (inside and outside of the CNT).
+* Calculate the radial density inside the CNT.
+* Calculate the axial density along the CNT and bulk.
+
+Additionally the program has a molecule identifier, ehich makes it possible to perform all analysis for the individual kind of molecules present in the system.
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
