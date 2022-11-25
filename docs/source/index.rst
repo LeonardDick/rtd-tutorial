@@ -21,8 +21,6 @@ Does it still work.
 Check out the :doc:`Installation` for more information on how to install CONAn.
 Check out the :doc:`Analysis` section for further information on the analysis.
 
-
-
 .. toctree::
    :caption: Content
 
