@@ -19,7 +19,7 @@ Additionally the program has a molecule identifier, which makes it possible to p
 
 
 Check out the :doc:`Installation` for more information on how to install CONAn.
-Check out the :doc:`Analysis tools` section for further information on the analysis.
+Check out the :doc:`Analysis` section for further information on the analysis.
 
 
 .. toctree::
@@ -27,4 +27,4 @@ Check out the :doc:`Analysis tools` section for further information on the analy
 
    Installation
    CBuilder
-   Analysis tools
+   Analysis
