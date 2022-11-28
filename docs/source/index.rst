@@ -17,14 +17,22 @@ The program is able to do the following:
 * Calculate the axial density along the CNT and bulk.
 
 Additionally the program has a molecule identifier, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
-Does it still work.
 
-Check out the :doc:`Installation` for more information on how to install CONAn.
-Check out the :doc:`Analysis` section for further information on the analysis.
+..Check out the :doc:`Installation` for more information on how to install CONAn.
+  Check out the :doc:`Analysis` section for further information on the analysis.
 
 .. toctree::
-   :caption: Content
+   :caption: First Steps
+   :maxdepth: 2
 
    Installation
+   Input and Output
+
+.. toctree::
+   :caption: Carbon structures
+
    CBuilder
+
+.. toctree::
+   :caption: Analysis
    Analysis
