@@ -1,7 +1,9 @@
 Versions
 ========
 
-..note:: The following versions are not yet released.
+.. note:: 
+  
+  The complete versions is not yet released.
 
   Beta versions
   -------------
