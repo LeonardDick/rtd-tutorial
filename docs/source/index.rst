@@ -35,7 +35,7 @@ Additionally the program has a molecule identifier, which makes it possible to p
    carbon_struc/CBuilder
 
 .. toctree::
-   :caption: analysis/Analysis
+   :caption: Analysis
    :maxdepth: 2
 
-   Analysis
+   analysis/Analysis
