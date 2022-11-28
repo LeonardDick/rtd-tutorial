@@ -38,4 +38,12 @@ Additionally the program has a molecule identifier, which makes it possible to p
    :caption: Analysis
    :maxdepth: 2
 
-   analysis/Analysis
+   analysis/analysis
+
+.. toctree::
+   :caption: Other
+   :maxdepth: 2
+
+   other/versions
+   other/imprint
+   other/privacy_policy
