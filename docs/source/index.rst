@@ -25,14 +25,17 @@ Additionally the program has a molecule identifier, which makes it possible to p
    :caption: First Steps
    :maxdepth: 2
 
-   Installation
-   Input and Output
+   first_steps/Installation
+   first_steps/input_output
 
 .. toctree::
-   :caption: Carbon structures
+   :caption: CBuilder
+   :maxdepth: 2
 
    CBuilder
 
 .. toctree::
    :caption: Analysis
+   :maxdepth: 2
+
    Analysis
