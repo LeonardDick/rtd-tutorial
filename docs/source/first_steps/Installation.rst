@@ -21,3 +21,4 @@ The code will then run and output the results to the terminal.
 An output.log file will be written. 
 This file contains the same information as the terminal output.
 The output.log file is also used to store the results of the code when running multiple simulations.
+For certain analysis options, additional files will be created (e.g. a .csv file for the results of the analysis).

@@ -1,3 +1,3 @@
 Coordination Number
 ===================
-Compute the coordination number for a given molecule inside and outside the pore.
+Compute the coordination number for a given liquid molecule inside and outside the pore.

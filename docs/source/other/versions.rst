@@ -3,7 +3,7 @@ Versions
 
 .. note:: 
   
-  The complete versions is not yet released.
+  The complete versions is not yet released!
 
 Beta versions
 -------------

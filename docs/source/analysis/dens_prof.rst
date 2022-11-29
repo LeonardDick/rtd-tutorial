@@ -9,3 +9,4 @@ The radial density is then plotted against the distance from the center of the C
 Axial Density Profile
 -------------------
 Compute a density profile along the CNT axis. The density profile is obtained by scanning through the entire trajectory and identify the number of atoms which belong to a certain increment defined by the user.
+This can be performed individually for all liquid species present.
