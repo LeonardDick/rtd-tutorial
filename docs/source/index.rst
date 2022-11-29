@@ -6,7 +6,7 @@ CONAn - User Guide
    This project is under active development.
 
 **CONAn** is a Python program to analyze MD trajectories composed of a liquid and carbon structures.
-It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de/).
+It is the counterpart to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de).
 The program is able to do the following:
 
 * Generate carbon structures like graphene walls or carbon nanotubes (CNT).
