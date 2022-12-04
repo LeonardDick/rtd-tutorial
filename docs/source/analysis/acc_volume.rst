@@ -1,7 +1,7 @@
 Accessible Volume
-===================
+=================
 The accessible volume is calculated by scanning over the whole trajectory to identify the atom which is furthest displaced from the center line of the CNT.
-The van der Waals radius is accounted for in the analysis. The accessible volume is calculated by the following equation:
+The van der Waals radius is accounted for in the analysis. The accessible volume :math:`V_{acc}` is calculated by the following equation:
 
 .. math::
 

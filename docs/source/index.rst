@@ -34,6 +34,12 @@ Check out the :doc:`Installation` for more information on how to install CONAn.
    carbon_struc/CBuilder
 
 .. toctree::
+   :caption: Picture Mode
+   :maxdepth: 2
+
+   pic_mode/picture_mode
+
+.. toctree::
    :caption: Analysis
    :maxdepth: 2
 
