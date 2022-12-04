@@ -38,6 +38,7 @@ Check out the :doc:`Installation` for more information on how to install CONAn.
    :maxdepth: 2
 
    analysis/mol_ident
+   analysis/acc_volume
    analysis/dens_prof
    analysis/coord_num
 
