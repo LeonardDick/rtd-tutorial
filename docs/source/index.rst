@@ -12,9 +12,10 @@ The program is able to do the following:
 * Generate carbon structures like graphene walls or carbon nanotubes (CNT).
 * Set up a system from a bulk liquid and a carbon structure.
 * Identify and characterize carbon structures found in the system.
-* Calculate the coordination number of the liquid (inside and outside of the CNT).
 * Calculate the radial density inside the CNT.
+* Calculate the accessible volume of the CNT.
 * Calculate the axial density along the CNT and bulk.
+* Produce xyz files of the first frame/CNT (either filled with liquid or empty) from the trajectory.
 
 Additionally the program has a molecule identifier, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
 
@@ -47,7 +48,6 @@ Check out the :doc:`Installation` for more information on how to install CONAn.
    analysis/mol_ident
    analysis/acc_volume
    analysis/dens_prof
-   analysis/coord_num
 
 .. toctree::
    :caption: Other
