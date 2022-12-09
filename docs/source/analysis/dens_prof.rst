@@ -3,10 +3,23 @@ Density Profiles
 
 Radial Denstity
 -------------------
-The radial density is obtained by scanning through the entire trajectory and identify the number of atoms (including its van der Waals radius) within a certain distance from the center of the CNT. The atoms are weighted by their mass and divided by the number of frames in the trajectory. 
-The radial density is then plotted against the distance from the center of the CNT.
+Radial densities can be computed. 
+With the center line of the CNT set as origin, the space around the center is cut into increments of the users' choice, up until the tubes' wall. 
+The CNT is automatically identified in the trajectory and the number of increments and therefore their volumes are set by the user. 
+While scanning over the whole trajectory, every atom which is inside the CNT is identified, weighed by its element kind and sorted into the according increment given by the distance criterion.
+After the scan, the obtained masses per increment are then divided by the volume of the respective increment as well as the number of time steps investigated to obtain the density. 
+The results can be plotted in multiple ways, set by the user and the results are written to ``Radial_density_function.csv``. 
+The analysis can be performed individually for all liquid species present.
 
 Axial Density Profile
 -------------------
-Compute a density profile along the CNT axis. The density profile is obtained by scanning through the entire trajectory and identify the number of atoms which belong to a certain increment defined by the user.
-This can be performed individually for all liquid species present.
+Compute a density profile over the whole simulation box along the CNT axis. 
+Again, as for the radial density, the CNT and all carbon structures are identified automatically in the trajectory. 
+The volume of the CNT is defined through the accessible volume analysis. 
+The number of increments and therefore their volumes are set by the user. 
+As the volume of each increment in the bulk and in the pore differ, multiple regions are defined in the simulation box.
+The number of increments set by the user subdivides the CNT and the bulk phases independently to assure that the calculations are done correctly.
+The analysis starts by scanning the entire trajectory and sorting all atoms into a given increment, weighed by its element kind.
+The obtined total increment masses are then divided by the number of frames and the respective increment volume to obtain the density.
+The analysis can be performed individually for all liquid species present.
+The results can be plotted if wanted and the data is written to ``Axial_density.csv``.

@@ -18,7 +18,7 @@ Either as an open tube with walls on either side, or closed on one side, having 
 The structures are built by using the following rules:
 
 * The set carbon-carbon distance is 1.42 Angstrom.
-* The interlayer distance between carbon layers is set to 3.35 Angstrom. The layers are shifted with respect to each other.
+* The interlayer distance between carbon layers is set to 3.35 Angstrom. The layers are shifted with respect to each other, resulting in an ABA stacking.
 * Carbon nanotubes (CNTs) are produced in the zig-zag conformation.
 * All structures are set up in such a way, that periodic boundary conditions are satisfied.
 

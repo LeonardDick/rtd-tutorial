@@ -1,6 +1,6 @@
 Simulation Box Picture
 ======================
-Save the xyz structure of the first frame of a given trajecvtory.
+Save the xyz structure of the first frame of a given trajectory.
 
 CNT Picture
 ===========
