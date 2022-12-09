@@ -28,10 +28,11 @@ Check out the :doc:`Installation` for more information on how to install CONAn.
    first_steps/input_output
 
 .. toctree::
-   :caption: Carbon Builder
+   :caption: Simulation Setup
    :maxdepth: 2
 
-   carbon_struc/CBuilder
+   simulation_setup/cbuilder
+   simulation_setup/simulation_box
 
 .. toctree::
    :caption: Picture Mode
