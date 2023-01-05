@@ -1,6 +1,50 @@
 Density Profiles
 ================
 
+For the calculation of the density profiles, the following parameters are potentially needed:
+
+* element masses
+* van der Waals or atomic (covalent) radii of the elements
+* number of increments (set by the user)
+
+.. list-table:: 
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - element
+     - mass [u]
+     - vdW radius [ang]
+     - atomic radius [ang]
+   * - H
+     - 1.0079
+     - 1.20
+     - 0.25
+   * - C
+     - 12.0107
+     - 1.70
+     - 0.70
+   * - N
+     - 14.0067
+     - 1.55
+     - 0.65
+   * - O
+     - 15.9994
+     - 1.52
+     - 0.60
+   * - F
+     - 18.9984
+     - 1.47
+     - 0.50
+   * - P
+     - 30.9738
+     - 1.80
+     - 1.00
+   * - S
+     - 32.0650
+     - 1.80
+     - 1.00
+
+
 Radial Denstity
 -------------------
 Radial densities can be computed. 
@@ -15,7 +59,8 @@ Axial Density Profile
 -------------------
 Compute a density profile over the whole simulation box along the CNT axis. 
 Again, as for the radial density, the CNT and all carbon structures are identified automatically in the trajectory. 
-The volume of the CNT is defined through the accessible volume analysis. 
+The volume of the CNT is either calculated with the accessible radius :math:`r_{acc}`, which is computed on the fly (see accessible volume) or with the radius of the CNT :math:`r_{CNT}`.
+:math:`r_{CNT}` is defined as the distance between a carbon atom of the CNT and the center line of the CNT.
 The number of increments and therefore their volumes are set by the user. 
 As the volume of each increment in the bulk and in the pore differ, multiple regions are defined in the simulation box.
 The number of increments set by the user subdivides the CNT and the bulk phases independently to assure that the calculations are done correctly.
