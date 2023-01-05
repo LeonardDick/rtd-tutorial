@@ -3,8 +3,8 @@ Density Profiles
 
 For the calculation of the density profiles, the following parameters are potentially needed:
 
-* element masses [Ref1]_
-* van der Waals [Ref2]_ or atomic [Ref3]_ (covalent) radii of the elements
+* element masses
+* van der Waals [1]_ or atomic [2]_ (covalent) radii of the elements
 * number of increments (set by the user)
 
 .. list-table:: 
@@ -12,35 +12,35 @@ For the calculation of the density profiles, the following parameters are potent
    :header-rows: 1
 
    * - element
-     - mass [u]
+     - mass [amu]
      - vdW radius [ang]
      - atomic radius [ang]
    * - H
-     - 1.0079
+     - 1.008
      - 1.20
      - 0.25
    * - C
-     - 12.0107
+     - 12.011
      - 1.70
      - 0.70
    * - N
-     - 14.0067
+     - 14.007
      - 1.55
      - 0.65
    * - O
-     - 15.9994
+     - 15.999
      - 1.52
      - 0.60
    * - F
-     - 18.9984
+     - 18.998
      - 1.47
      - 0.50
    * - P
-     - 30.9738
+     - 30.974
      - 1.80
      - 1.00
    * - S
-     - 32.0650
+     - 32.065
      - 1.80
      - 1.00
 
@@ -70,8 +70,6 @@ The analysis can be performed individually for all liquid species present.
 The results can be plotted if wanted and the data is written to ``Axial_density.csv``.
 
 
-[Ref1]_ https://www.webelements.com/mass.html
+[1]_ J.C. Slater, Atomic radii in crystals, J. Chem. Phys. 41 (10) (1964) 3199-3204.
 
-[Ref2]_ https://www.webelements.com/van_der_waals_radius.html
-
-[Ref3]_ https://www.webelements.com/covalent_radius.html
+[2]_ A. Bondi, van der Waals Volumes and Radii, J. Phys. Chem. 68 (3) (1964) 441-451.
