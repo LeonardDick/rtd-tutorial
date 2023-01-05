@@ -3,8 +3,10 @@ Density Profiles
 
 For the calculation of the density profiles, the following parameters are potentially needed:
 
+Hi
+
 * element masses 
-* van der Waals or atomic :cite:t:'Slater1964' (covalent) radii of the elements
+* van der Waals :footnote:t:'Slater1964' or atomic :cite:t:'Slater1964' (covalent) radii of the elements
 * number of increments (set by the user)
 
 .. list-table:: 
