@@ -72,6 +72,6 @@ The results can be plotted if wanted and the data is written to ``Axial_density.
 
 
 .. [1] J.C. Slater, Atomic radii in crystals, J. Chem. Phys. 41 (10) (1964) 3199-3204.
-       DOI: 10.1063/1.1725697
+       DOI: <10.1063/1.1725697>
 .. [2] A. Bondi, van der Waals Volumes and Radii, J. Phys. Chem. 68 (3) (1964) 441-451.
-       DOI: 10.1021/j100785a001
+       DOI: <10.1021/j100785a001>
