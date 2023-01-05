@@ -4,7 +4,7 @@ Density Profiles
 For the calculation of the density profiles, the following parameters are potentially needed:
 
 * element masses
-* van der Waals[1] or covalent[2] radii of the elements
+* van der Waals [1] or covalent[2] radii of the elements
 * number of increments (set by the user)
 
 .. list-table:: 
@@ -70,6 +70,8 @@ The analysis can be performed individually for all liquid species present.
 The results can be plotted if wanted and the data is written to ``Axial_density.csv``.
 
 
-[1]_ J.C. Slater, Atomic radii in crystals, J. Chem. Phys. 41 (10) (1964) 3199-3204.
 
-[2]_ A. Bondi, van der Waals Volumes and Radii, J. Phys. Chem. 68 (3) (1964) 441-451.
+.. [1] J.C. Slater, Atomic radii in crystals, J. Chem. Phys. 41 (10) (1964) 3199-3204.
+       DOI: 10.1063/1.1725697
+.. [2] A. Bondi, van der Waals Volumes and Radii, J. Phys. Chem. 68 (3) (1964) 441-451.
+       DOI: 10.1021/j100785a001
