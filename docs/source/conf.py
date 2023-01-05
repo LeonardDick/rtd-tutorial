@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.bibtex-2.5.0'
+    'sphinxcontrib.bibtex-2.5.0',
 ]
 
 bibtex_bibfiles = ['refs.bib']
