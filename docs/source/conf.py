@@ -16,10 +16,9 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'sphinxcontrib.bibtex-2.5.0',
-]
-
+    'sphinx.ext.intersphinx',]
+    
+extensions = ['sphinxcontrib.bibtex']
 bibtex_bibfiles = ['refs.bib']
 
 intersphinx_mapping = {
