@@ -3,10 +3,8 @@ Density Profiles
 
 For the calculation of the density profiles, the following parameters are potentially needed:
 
-Hi
-
-* element masses 
-* van der Waals :footnote:t:'Slater1964' or atomic :cite:t:'Slater1964' (covalent) radii of the elements
+* element masses [Ref1]_
+* van der Waals [Ref2]_ or atomic [Ref3]_ (covalent) radii of the elements
 * number of increments (set by the user)
 
 .. list-table:: 
@@ -70,3 +68,10 @@ The analysis starts by scanning the entire trajectory and sorting all atoms into
 The obtined total increment masses are then divided by the number of frames and the respective increment volume to obtain the density.
 The analysis can be performed individually for all liquid species present.
 The results can be plotted if wanted and the data is written to ``Axial_density.csv``.
+
+
+[Ref1]_ https://www.webelements.com/mass.html
+
+[Ref2]_ https://www.webelements.com/van_der_waals_radius.html
+
+[Ref3]_ https://www.webelements.com/covalent_radius.html
