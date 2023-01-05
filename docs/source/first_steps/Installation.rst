@@ -24,3 +24,4 @@ Now the code is ready to run. To run the code, simply run
 The code works by asking questions to the user and prints the results to the terminal. 
 A log file will be written called ``conan.log``, which contains everything, that is printed to the terminal. 
 For certain modules, additional files will be created (e.g. a .csv file for the results of the analysis).
+
