@@ -59,8 +59,8 @@ Axial Density Profile
 -------------------
 Compute a density profile over the whole simulation box along the CNT axis. 
 Again, as for the radial density, the CNT and all carbon structures are identified automatically in the trajectory. 
-The volume of the CNT is either calculated with the accessible radius :math:`r_{acc}`, which is computed on the fly (see accessible volume) or with the radius of the CNT :math:`r_{CNT}`.
-:math:`r_{CNT}` is defined as the distance between a carbon atom of the CNT and the center line of the CNT.
+The volume of the CNT is either calculated with the accessible radius :math:`r_{acc}`, which is computed on the fly (see accessible volume) or with the radius :math:`r_{CNT}` of the CNT.
+The radius :math:`r_{CNT}` is defined as the distance between a carbon atom of the CNT and the center line of the CNT.
 The number of increments and therefore their volumes are set by the user. 
 As the volume of each increment in the bulk and in the pore differ, multiple regions are defined in the simulation box.
 The number of increments set by the user subdivides the CNT and the bulk phases independently to assure that the calculations are done correctly.
