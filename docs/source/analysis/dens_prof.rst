@@ -8,7 +8,7 @@ For the calculation of the density profiles, the following parameters are potent
 * number of increments (set by the user)
 
 .. list-table:: 
-   :widths: 25 25 50
+   :widths: 25 25 25 25 
    :header-rows: 1
 
    * - element
