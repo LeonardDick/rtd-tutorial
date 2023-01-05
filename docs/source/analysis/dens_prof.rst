@@ -14,7 +14,7 @@ For the calculation of the density profiles, the following parameters are potent
    * - element
      - mass [amu]
      - vdW radius [ang]
-     - atomic radius [ang]
+     - covalent radius [ang]
    * - H
      - 1.008
      - 1.20
