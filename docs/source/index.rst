@@ -10,22 +10,22 @@ The program has the following features:
 
 * Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
 
-.. image:: ../pictures/CNT.png
+.. image:: pictures/CNT.png
    :width: 400px
    :align: center
    :alt: CNT
 
-.. image:: pictures/wall.png
+.. image:: pictures/carbon_wall.png
    :width: 400px
    :align: center
    :alt: Wall
 
-.. image:: picturespore_front.png
+.. image:: pictures/pore_front.png
    :width: 400px
    :align: center
    :alt: Pore
 
-.. image:: picturespore_tilted.png
+.. image:: pictures/pore_tilted.png
    :width: 400px
    :align: center
    :alt: Pore
