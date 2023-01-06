@@ -5,11 +5,10 @@ CONAn - User Guide
 
    This project is under active development.
 
-**CONAn** is a Python program to generate carbon structures, set up MD simulation boxes and analyze MD trajectories composed of a liquid and carbon structures.
-It shall pose as an addition to the powerful and established program *TRAVIS* (http://www.travis-analyzer.de).
-The program is able to do the following:
+**CONAn** is a tool to generate carbon structures, set up MD simulation boxes and analyze MD trajectories composed of a liquid and carbon structures.
+The program has the following features:
 
-* Generate carbon structures like graphene walls, carbon nanotubes (CNT) or pores.
+* Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
 
 -> include pictures of the structures here
 
