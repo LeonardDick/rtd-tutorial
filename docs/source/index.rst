@@ -19,7 +19,7 @@ The program has the following features:
 
 Additionally the program has a molecule identifier implemented, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
 
-Check out the :doc:`first_steps/Installation` for more information on how to install CONAn.
+Check out :doc:`first_steps/Installation` for more information on how to install CONAn.
 
 .. toctree::
    :caption: First Steps
@@ -36,15 +36,10 @@ Check out the :doc:`first_steps/Installation` for more information on how to ins
    simulation_setup/simulation_box
 
 .. toctree::
-   :caption: Picture Mode
+   :caption: Trajectory analysis
    :maxdepth: 2
 
    pic_mode/picture_mode
-
-.. toctree::
-   :caption: Analysis
-   :maxdepth: 2
-
    analysis/mol_ident
    analysis/acc_volume
    analysis/dens_prof
