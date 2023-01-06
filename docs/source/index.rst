@@ -8,6 +8,7 @@ CONAn - User Guide
 **CONAn** is a tool to generate carbon structures, set up MD simulation boxes and analyze MD trajectories composed of a liquid and carbon structures.
 The program has the following features:
 
+
 * Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
 
 .. image:: pictures/carbon_wall.png
@@ -34,7 +35,6 @@ The program has the following features:
    :align: center
    :alt: Liquid
 
--> include a picture of the system here
 
 * Identify and characterize carbon structures found in a trajectory.
 * Calculate the radial density inside a CNT.
