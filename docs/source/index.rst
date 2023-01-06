@@ -11,23 +11,28 @@ The program has the following features:
 * Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
 
 .. image:: pictures/carbon_wall.png
-   :width: 25%
+   :width: 24%
    :alt: Wall
 
 .. image:: pictures/CNT.png
-   :width: 25%
+   :width: 24%
    :alt: CNT
 
 .. image:: pictures/pore_tilted.png
-   :width: 25%
+   :width: 24%
    :alt: Pore
 
 .. image:: pictures/closed_pore.png
-   :width: 25%
+   :width: 24%
    :alt: Pore_closed
 
 
-* Set up a system from a bulk liquid and a carbon structure.
+* Set up systems with a bulk liquid input file and carbon structures of choice.
+
+.. image:: pictures/simulation_box.png
+   :width: 60%
+   :align: center
+   :alt: Liquid
 
 -> include a picture of the system here
 
