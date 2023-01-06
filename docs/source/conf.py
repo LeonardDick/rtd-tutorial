@@ -6,8 +6,8 @@ project = 'CONAn'
 copyright = '2022, Leonard Dick'
 author = 'Leonard Dick'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0.0'
+version = '1.0.0'
 
 # -- General configuration
 

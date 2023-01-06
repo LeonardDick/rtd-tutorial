@@ -15,7 +15,10 @@ Additionally, the center point of the CNT, which the pore is composed of, can be
 
 CNT Picture
 ----------
-Save the xyz structure of the CNT (without the outer walls). Additionally
+Save the xyz structure of the CNT (without the outer walls).
+Additionally, it is possible to add all atoms to the xyz file, which are contained inside the CNT. 
+As some molecules might be partially inside the CNT and partially outside, some molecules might be fragmented.
+The other option is to add all molecules to the xyz file, which are completely, or just partially, contained inside the CNT.
 
 
 

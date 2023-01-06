@@ -7,4 +7,4 @@ Versions
 
 Beta versions
 -------------
-Version 0.1 is currently worked on in the `master` branch.
+Version 1.0 is currently worked on in the `master` branch.
