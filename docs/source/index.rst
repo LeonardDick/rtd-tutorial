@@ -39,7 +39,8 @@ Check out :doc:`first_steps/Installation` for more information on how to install
    :caption: Trajectory analysis
    :maxdepth: 2
 
-   pic_mode/picture_mode
+   analysis/general
+   analysis/picture_mode
    analysis/mol_ident
    analysis/acc_volume
    analysis/dens_prof
