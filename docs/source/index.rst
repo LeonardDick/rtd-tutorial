@@ -10,32 +10,7 @@ The program has the following features:
 
 
 * Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
-
-.. image:: pictures/carbon_wall.png
-   :width: 24%
-   :alt: Wall
-
-.. image:: pictures/CNT.png
-   :width: 24%
-   :alt: CNT
-
-.. image:: pictures/pore_tilted.png
-   :width: 24%
-   :alt: Pore
-
-.. image:: pictures/closed_pore.png
-   :width: 24%
-   :alt: Pore_closed
-
-
 * Set up systems with a bulk liquid input file and carbon structures of choice.
-
-.. image:: pictures/simulation_box.png
-   :width: 60%
-   :align: center
-   :alt: Liquid
-
-
 * Identify and characterize carbon structures found in a trajectory.
 * Calculate the radial density inside a CNT.
 * Calculate the accessible volume of a CNT.

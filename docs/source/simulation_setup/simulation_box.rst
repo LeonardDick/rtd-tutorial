@@ -35,3 +35,13 @@ The 'L' and 'R' keywords are needed, if the pore structure is not symmetric and 
 The provided xyz structures have to be in the folder where the program is executed, or in the cbuild folder generated beforehand. 
 The final simulation box will be saved as simbox.xyz in the present folder.
 
+
+.. figure:: pictures/simulation_box.png
+   :width: 60%
+   :class: align-center
+
+    Simulation box of an ionic liquid between carbon walls and a pore, generated with the simulation box generator.
+   
+
+
+
