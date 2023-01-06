@@ -10,13 +10,13 @@ The program has the following features:
 
 * Generate carbon structures like carbon walls, carbon nanotubes (CNT) or pores.
 
-.. image:: pictures/CNT.png
-   :width: 30%
-   :alt: CNT
-
 .. image:: pictures/carbon_wall.png
    :width: 30%
    :alt: Wall
+
+.. image:: pictures/CNT.png
+   :width: 30%
+   :alt: CNT
 
 .. image:: pictures/pore_tilted.png
    :width: 30%
@@ -24,7 +24,7 @@ The program has the following features:
 
 .. image:: pictures/closed_pore.png
    :width: 30%
-   :alt: Pore
+   :alt: Pore_closed
 
 
 * Set up a system from a bulk liquid and a carbon structure.
@@ -37,7 +37,7 @@ The program has the following features:
 * Calculate the axial density along a simulation box.
 * Produce xyz files of a frame/pore/CNT (either filled with liquid or empty) from the trajectory.
 
-Additionally the program has a molecule identifier, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
+Additionally the program has a molecule identifier implemented, which makes it possible to perform all analysis for the individual kind of molecules present in the system.
 
 Check out the :doc:`first_steps/Installation` for more information on how to install CONAn.
 
