@@ -12,22 +12,18 @@ The program has the following features:
 
 .. image:: pictures/CNT.png
    :width: 40%
-   :align: center
    :alt: CNT
 
 .. image:: pictures/carbon_wall.png
    :width: 40%
-   :align: center
    :alt: Wall
 
 .. image:: pictures/pore_front.png
    :width: 40%
-   :align: center
    :alt: Pore
 
 .. image:: pictures/pore_tilted.png
    :width: 40%
-   :align: center
    :alt: Pore
 
 
