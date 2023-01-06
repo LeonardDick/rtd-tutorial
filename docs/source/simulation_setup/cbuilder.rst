@@ -15,19 +15,19 @@ The program is able to build the following structures:
 * The CNTs and carbon walls can be combined to build a 'pore' structure. 
 Either as an open tube with walls on either side, or closed on one side, having a wall on one the other side.
 
-.. image:: pictures/carbon_wall.png
+.. image:: ../pictures/carbon_wall.png
    :width: 24%
    :alt: Wall
 
-.. image:: pictures/CNT.png
+.. image:: ../pictures/CNT.png
    :width: 24%
    :alt: CNT
 
-.. image:: pictures/pore_tilted.png
+.. image:: ../pictures/pore_tilted.png
    :width: 24%
    :alt: Pore
 
-.. image:: pictures/closed_pore.png
+.. image:: ../pictures/closed_pore.png
    :width: 24%
    :alt: Pore_closed
 
