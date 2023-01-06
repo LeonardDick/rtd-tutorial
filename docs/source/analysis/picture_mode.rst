@@ -11,7 +11,7 @@ The frame of choice is set beforehand by the user when prompted to select a fram
 Pore Picture
 -----------
 Save the structure of the pore structure in the simulation box in a seperate xyz file.
-Additionally, the center point of the CNT, which the pore is composed of, can be included in to the xyz file, labeled as 'X'.
+Additionally, the center point of the CNT can be included in to the xyz file, labeled as 'X'.
 
 CNT Picture
 ----------

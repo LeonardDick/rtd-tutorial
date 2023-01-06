@@ -1,4 +1,4 @@
-Molecule identifier
+Molecule Identifier
 ===================
 A molecule identifier is included in the program. 
 All bonds between atoms are identified via distance criteria. 

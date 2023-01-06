@@ -16,7 +16,6 @@ The trajectory analysis tool is divided into two main parts, the picture mode an
 All modi will be discussed in further detail in the following sections.
 
 For the analysis options implemented, the following parameters are potentially needed:
-
 * element masses
 * van der Waals [1]_ or covalent [2]_ radii of the elements
 * number of increments (set by the user)
